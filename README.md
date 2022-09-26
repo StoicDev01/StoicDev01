@@ -10,6 +10,6 @@
 <h3 align="left">Sites</h3>
 <p align="left">
   <p>Blog</p> 
-  <img src="https://st2.depositphotos.com/1005147/5192/i/450/depositphotos_51926417-stock-photo-hands-holding-the-sun-at.jpg" target="_blank" alt="c" width="40" height="40"/> </img>
+  <img src="https://lh3.googleusercontent.com/OowRCrs4u-wUtTSXz_Z13rsEXICiJpVmUhIr4eat-Ls7zCwfwiAIo2BURPav8L72P8n9IjRE77pQ_-Ae=s239-c" target="_blank" width="40" height="40"/> </img>
 </p>
 
