@@ -10,6 +10,6 @@
 <h3 align="left">Sites</h3>
 <p align="left">
   <p>Blog</p> 
-  <img src="http://bytetext.liveblog365.com/" href="http://bytetext.liveblog365.com/test/" target="_blank" alt="c" width="40" height="40"/> </img>
+  <img src="http://bytetext.liveblog365.com/" target="_blank" alt="c" width="40" height="40"/> </img>
 </p>
 
