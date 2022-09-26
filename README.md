@@ -1,4 +1,12 @@
 
+
+<style>
+  .horizontal {
+    margin-left: auto;  
+    margin-right: 0;  
+  }
+</style>
+
 <img src="https://github-readme-stats.vercel.app/api?username=izkeas&show_icons=true&locale=en" alt="izkeas" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izkeas&show_icons=true&locale=en&layout=compact" alt="izkeas" />
 
@@ -8,7 +16,7 @@
 </p>
 
 <h3 align="left">Sites</h3>
-<p align="left">
+<p class="horizontal" align="left">
   <p>Blog</p> 
   <img src="https://lh3.googleusercontent.com/OowRCrs4u-wUtTSXz_Z13rsEXICiJpVmUhIr4eat-Ls7zCwfwiAIo2BURPav8L72P8n9IjRE77pQ_-Ae=s239-c" target="_blank" width="40" height="40"/> </img>
 </p>
