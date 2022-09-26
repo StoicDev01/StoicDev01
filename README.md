@@ -10,6 +10,6 @@
 <h3 align="left">Sites</h3>
 <p align="left">
   <p>Blog</p> 
-  <img src="http://bytetext.liveblog365.com/wp-content/uploads/2022/09/ByteText1.png" target="_blank" alt="c" width="40" height="40"/> </img>
+  <img src="https://st2.depositphotos.com/1005147/5192/i/450/depositphotos_51926417-stock-photo-hands-holding-the-sun-at.jpg" target="_blank" alt="c" width="40" height="40"/> </img>
 </p>
 
