@@ -8,7 +8,9 @@
 
 <div style="display: flex; flex-direction: column; margin: 0 auto;">
 <h3 style="flex: 1;">Site:</h3>
+<a href="bytethesis.one">
 <img style="flex:1;" src="https://bytethesis.one/content/images/size/w256h256/2022/10/ByteText-1-.png" alt="ByteText" width="60" height="60"/> 
-    
+</a>  
+
 </div>
 
