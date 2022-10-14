@@ -8,8 +8,8 @@
 
 <h3 align="left">Site:</h3>
 <p align="left">
-    <a href="http://bytetext.liveblog365.com/" target="_blank"> 
-        <img src="https://lh3.googleusercontent.com/OowRCrs4u-wUtTSXz_Z13rsEXICiJpVmUhIr4eat-Ls7zCwfwiAIo2BURPav8L72P8n9IjRE77pQ_-Ae=s239-c" alt="ByteText" width="60" height="60"/> 
+    <a href="https://bytethesis.one" target="_blank"> 
+        <img src="https://bytethesis.one/content/images/size/w256h256/2022/10/ByteText-1-.png" alt="ByteText" width="60" height="60"/> 
     </a>
 </p>
 
