@@ -44,7 +44,7 @@
 
 <h2> Links </h3>
 <div dir="auto">
-  <a href="izkeas-portfolio.vercel.app" target="_blank" rel="noReferrer">
+  <a href="izkeas-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-262b2b?style=for-the-badge&logo=code&logoColor=white"
   </a>
     
