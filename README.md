@@ -15,6 +15,7 @@
   <li>Fascinado em novas tecnologias</li>
   <li>Programador autodidata</li>
   <li>Tenho um <a href="https://izkeas-portfolio.vercel.app">portfólio</a></li>
+  <li>Tenho um <a href="https://bytethesis.one">Blog</a></li>
 </ul>
 
 <h2 align="left">Habilidades</h3>
