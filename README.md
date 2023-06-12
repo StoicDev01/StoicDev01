@@ -1,5 +1,5 @@
 <h1 dir="auto" align="center">
-  Izkeas
+  StoicDev
 </h1>
 
 <div align="center">
