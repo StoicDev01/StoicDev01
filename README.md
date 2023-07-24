@@ -14,7 +14,7 @@
   <li>Fascinado em criar novos projetos e soluções </li>
   <li>Fascinado em novas tecnologias</li>
   <li>Programador autodidata</li>
-  <li>Tenho um <a href="https://izkeas-portfolio.vercel.app">portfólio</a></li>
+  <li>Tenho um <a href="https://stoicdev.vercel.app">portfólio</a></li>
   <li>Tenho um <a href="https://bytethesis.one">Blog</a></li>
   <li>Tenho um <a href="https://www.hackerrank.com/izkeas"> perfil no hackerrank</li>
 </ul>
