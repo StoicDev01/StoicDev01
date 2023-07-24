@@ -40,21 +40,21 @@
 <h2>Status</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izkeas&theme=prussian&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izkeas&theme=prussian&layout=compact&hide_progress=false" style="height : 195px">
+  <img src="https://github-readme-stats.vercel.app/api?username=StoicDev01&theme=prussian&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicDev01&theme=prussian&layout=compact&hide_progress=false" style="height : 195px">
 </div>
 
 <h2> Links </h3>
 <div dir="auto">
-  <a href="https://izkeas-portfolio.vercel.app" target="_blank" rel="noReferrer">
+  <a href="https://stoicdev.vercel.app" target="_blank" rel="noReferrer">
     <img src="https://img.shields.io/badge/Portfolio-262b2b?style=for-the-badge&logo=code&logoColor=white"
   </a>
     
-  <a href="mailto:izkeas@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+  <a href="mailto:ryan.costasousa01@gmail.com.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=protonmail&logoColor=white">
   </a>
   
-  <a href="https://www.linkedin.com/in/ryan-da-costa-sousa-6b1009224/">
+  <a href="www.linkedin.com/in/ryan-costa-sousa-6b1009224">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
