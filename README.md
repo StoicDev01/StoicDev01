@@ -1,13 +1,6 @@
 <h1 dir="auto" align="center">
   StoicDev
 </h1>
-
-<div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img 
-         src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Fascinado+em+criar+projetos+e+soluções..;Fascinado+em+novas+tecnologias;Programador+autodidata;"        style="max-width: 100%;">
-  </a>
-</div>
   
 <h2>Sobre mim</h2>
 <ul>
