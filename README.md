@@ -39,10 +39,6 @@
   <a href="https://stoicdev.vercel.app" target="_blank" rel="noReferrer">
     <img src="https://img.shields.io/badge/Portfolio-262b2b?style=for-the-badge&logo=code&logoColor=white"
   </a>
-    
-  <a href="mailto:ryan.costasousa01@gmail.com.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=protonmail&logoColor=white">
-  </a>
 
 </div>
   
